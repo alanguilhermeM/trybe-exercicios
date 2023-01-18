@@ -4,5 +4,8 @@ h1, p {
 
 li:hover {
     background-color: aquamarine;
-    font-style: italic;
+}
+
+li:active {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
