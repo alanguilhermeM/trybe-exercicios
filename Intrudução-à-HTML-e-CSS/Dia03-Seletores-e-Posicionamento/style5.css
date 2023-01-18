@@ -21,3 +21,9 @@ li {
 ol.list_ordenada {
     font-weight: bold;
 }
+li.blue {
+    color: blue;
+}
+li.rosa {
+    background-color: pink;
+}
