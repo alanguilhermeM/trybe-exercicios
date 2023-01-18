@@ -10,6 +10,8 @@ div:hover {
 }
 .purple {
     background-color: purple;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .brown {
     background-color: brown;
@@ -20,17 +22,22 @@ div:hover {
 
 .black > h3 {
     color: white;
+    margin-left: 10px;
 }
 .red > h3 {
     color: aquamarine;
+    margin-left: 10px;
 }
 .purple > h3 {
     color: black;
+    margin-left: 10px;
 }
 
 .brown > h3 {
     color: aqua;
+    margin-left: 10px;
 }
 .aqua > h3 {
     color: blueviolet;
+    margin-left: 10px;
 }
