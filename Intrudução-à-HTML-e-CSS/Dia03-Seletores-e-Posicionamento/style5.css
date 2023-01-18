@@ -27,3 +27,19 @@ li.blue {
 li.rosa {
     background-color: pink;
 }
+a:hover {
+    font-weight: 700;
+}
+
+#stack:hover {
+    color: orange;
+}
+#w3s:hover, #trybe:hover {
+    color: green;
+}
+#mdn:hover {
+    color: black;
+}
+#dev:hover {
+    color: yellow;
+}
