@@ -17,3 +17,20 @@ div:hover {
 .aqua {
     background-color: aqua;
 }
+
+.black > h3 {
+    color: white;
+}
+.red > h3 {
+    color: aquamarine;
+}
+.purple > h3 {
+    color: black;
+}
+
+.brown > h3 {
+    color: aqua;
+}
+.aqua > h3 {
+    color: blueviolet;
+}
